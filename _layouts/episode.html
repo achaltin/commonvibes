@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+    <head>
+            <link href="assets/css/reset.css" rel="stylesheet"/>
+            <link href="https://fonts.googleapis.com/css?family=Kalam&display=swap" rel="stylesheet">
+            <link href="assets/css/main.css" rel="stylesheet"/>
+    </head>
+    <body>
+            <h1>{{ episode.season }}.{{ episode.episode }} : {{ episode.episode-title }}</h1>
+            <iframe width="560" height="315" src="{{ episode.video-link }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe/>
+            <h2>{{ episode.description }}</2>
+            <p>
+                <a href="{{ episode.prev }}">Previous</a> | 
+                <a href="{{ episode.next }}">Next</a>
+            </p>
+            {% include footer.html %}
+    </body>
+</html>

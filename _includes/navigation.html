@@ -1,7 +1,14 @@
 <nav>
+    <a href="/">
+        <img src="/assets/images/logo.png" alt="Common Vibes Logo" class="nav-logo"/>
+    </a>
+    <ul>
         {% for item in site.data.navigation %}
-          <a href="{{ item.link }}" {% if page.url == item.link %}style="color: red;"{% endif %}>
-            {{ item.name }}
-          </a> <span>  </span>
+            <li>
+                <a class="nav-btn" href="{{ item.link }}" {% if page.url == item.link %}style="color: #9171EC;"{% endif %}>
+                  {{ item.name }}
+                </a> 
+            </li>
         {% endfor %}
-      </nav>
+    </ul>
+</nav>

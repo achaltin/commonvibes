@@ -3,12 +3,15 @@
   <head>
     <meta charset="utf-8">
     <title>{{ page.title }}</title>
+    <link href="https://fonts.googleapis.com/css?family=Satisfy|Yanone+Kaffeesatz&display=swap" rel="stylesheet">
+    <link href="/assets/css/reset.css" rel="stylesheet"/>
+    <link href="/assets/css/main.css" rel="stylesheet"/>
   </head>
   <body>
      {% include navigation.html %}
-    {{ content }}
-    <footer>
-        &copy; <script>new Date().getFullYear()>2010&&document.write(""+new Date().getFullYear());</script>, Name of Ashlyn's Brand
-    </footer>
+     <div class="page-container">
+        {{ content }}
+      </div>
+      {% include footer.html %}
   </body>
 </html>

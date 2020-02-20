@@ -1,0 +1,76 @@
+/*
+    Colors!
+    Blue: #599ED7
+    Pink: #FFA8D6
+    Purple: #9171EC
+    Red: #CD4C51
+*/
+
+html{
+    height: 100vh;
+}
+
+html, body{
+    background-color: #DFE0E2;
+    margin:0;
+}
+
+html,h1,h2,h3,h4,h5,h6{
+    font-family: "Satisfy";
+    color: #A2AEBB;
+}
+
+h1{
+    font-size: 50px;
+}
+
+p{
+    padding:10px;
+}
+
+nav, footer{
+    background-color:#9171EC;
+    width:100%;
+    display: inline-flex;
+}
+
+nav ul{
+    height: 100%;
+}
+
+a,p,li,ul{
+    font-family: 'Yanone Kaffeesatz', sans-serif;color:black;
+    font-size: 18px;
+}
+
+nav li{
+    display: inline-flex;
+}
+
+footer{
+    margin-bottom: 0px;
+    position: fixed;
+    bottom: 0;
+    display: inline-flex;
+}
+
+
+
+.nav-btn{
+    background-color:#DFE0E2;
+    padding: 10px;
+    border: 2px solid #599ED7;
+    margin: 5px 2.5px;
+    color: #599ED7;
+    text-align: center;
+}
+
+.nav-logo{
+    height: 50px;
+    padding-right: 20px;
+}
+
+.page-container{
+    margin:20px auto;
+    max-width: 800px;
+}
