@@ -6,6 +6,28 @@
     Red: #CD4C51
 */
 
+.blue{
+    color: #599ED7;
+}
+
+.pink{
+    color:#FFA8D6;
+}
+
+.purple{
+    color: #9171EC;
+}
+
+.red{
+    color: #cd4c51;
+}
+
+.yellow{
+    color:#D2D75F
+}
+
+/**************************************/
+/* General Shared Styles */
 html{
     height: 100vh;
 }
@@ -15,19 +37,39 @@ html, body{
     margin:0;
 }
 
-html,h1,h2,h3,h4,h5,h6{
-    font-family: "Satisfy";
-    color: #A2AEBB;
+.adriator{
+    font-family: 'Adriator','Bungee Shade', sans-serif;
+}
+
+h1,h2,h3,h4,h5,h6{
+    font-family: "Bungee";
+    color: black;
+    padding:15px 10px 10px 10px;
 }
 
 h1{
-    font-size: 50px;
+    font-size: 40px;
+    font-family: "Bungee Shade";
+}
+
+h2{
+    font-size:28px;
+}
+h3{
+    font-size: 20px;
 }
 
 p{
     padding:10px;
 }
 
+a,p,li,ul{
+    font-family: 'Yanone Kaffeesatz', sans-serif;color:black;
+    font-size: 20px;
+}
+
+/**************************************/
+/* Navigation & Footer bars */
 nav, footer{
     background-color:#9171EC;
     width:100%;
@@ -36,11 +78,6 @@ nav, footer{
 
 nav ul{
     height: 100%;
-}
-
-a,p,li,ul{
-    font-family: 'Yanone Kaffeesatz', sans-serif;color:black;
-    font-size: 18px;
 }
 
 nav li{
@@ -54,8 +91,6 @@ footer{
     display: inline-flex;
 }
 
-
-
 .nav-btn{
     background-color:#DFE0E2;
     padding: 10px;
@@ -63,6 +98,13 @@ footer{
     margin: 5px 2.5px;
     color: #599ED7;
     text-align: center;
+    font-size: 22px;
+    min-width:70px;
+    max-width:200px;
+}
+
+.nav-btn:hover{
+    background-color: #FFA8D6;
 }
 
 .nav-logo{
@@ -73,4 +115,92 @@ footer{
 .page-container{
     margin:20px auto;
     max-width: 800px;
+}
+
+/********************************************/
+/* Cast Page Specific Styles */
+.cast{
+    display:inline-flex;
+}
+
+.cast img {
+    height: 150px;
+    width: 150px;
+    margin: 5px;
+    border: 1px solid #599ED7;
+}
+
+.cast-block{
+    background-color: #FFA8D6;
+    margin-left: 15px;
+    border: 2px solid #599ED7;
+    width: 47%;
+}
+
+.cast-role{
+    color: #599ED7;
+}
+
+/********************************************/
+/* Episode Styling */
+.inactive-tab{
+    display:none;
+}
+
+.active-tab{
+    display: block;
+}
+
+.active-selection{
+    background-color:#FFA8D6;
+}
+
+.inactive-selection{
+    background-color: #D2D75F;
+}
+
+.season-bar ul{
+    display: inline-flex;
+}
+
+/********************************************/
+/* Padding Styles */
+
+.pa-20{
+    padding:20px;
+}
+
+.pa-0{
+    padding:0px;
+}
+
+.pt-0{
+    padding-top: 0px;
+}
+
+.pb-0{
+    padding-bottom: 0px;
+}
+
+/********************************************/
+/* Margin Styles */
+
+.ma-20{
+    margin:20px;
+}
+
+.ma-0{
+    margin:0px;
+}
+
+.mt-0{
+    margin-top: 0px;
+}
+
+.mb-0{
+    margin-bottom: 0px;
+}
+
+.mt-10{
+    margin-top:10px;
 }

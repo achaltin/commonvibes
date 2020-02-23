@@ -2,11 +2,11 @@
   link: /
 - name: About
   link: /about
-- name: Cast
-  link: /cast
 - name: Episodes
   link: /episodes
-- name: Resources
-  link: /resources
+- name: Cast
+  link: /cast
 - name: Contact
   link: /contact
+- name: Resources
+  link: /resources
