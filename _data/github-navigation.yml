@@ -1,0 +1,12 @@
+- name: Home
+  link: /commonvibes
+- name: About
+  link: commonvibes/about
+- name: Episodes
+  link: commonvibes/episodes
+- name: Cast
+  link: commonvibes/cast
+- name: Contact
+  link: commonvibes/contact
+- name: Resources
+  link: commonvibes/resources

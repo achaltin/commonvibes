@@ -3,7 +3,7 @@
         <img src="../assets/images/logo.png" alt="Common Vibes Logo" class="nav-logo"/>
     </a>
     <ul>
-        {% for item in site.data.navigation %}
+        {% for item in site.data.github-navigation %}
             <li>
                 <a class="nav-btn" href="{{ item.link }}" {% if page.url == item.link %}style="color: #9171EC;"{% endif %}>
                   {{ item.name }}
