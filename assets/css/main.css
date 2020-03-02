@@ -26,6 +26,30 @@
     color:#D2D75F
 }
 
+.bg-blue{
+    background-color: #599ED7;
+}
+
+.bg-pink{
+    background-color:#FFA8D6;
+}
+
+.bg-purple{
+    background-color: #9171EC;
+}
+
+.bg-red{
+    background-color: #cd4c51;
+}
+
+.bg-yellow{
+    background-color:#D2D75F
+}
+
+.border-red{
+    border:2px solid #cd4c51;
+}
+
 /**************************************/
 /* General Shared Styles */
 html{
@@ -63,7 +87,7 @@ p{
     padding:10px;
 }
 
-a,p,li,ul{
+a,p,li,ul,input,label,textarea{
     font-family: 'Yanone Kaffeesatz', sans-serif;color:black;
     font-size: 20px;
 }
@@ -183,6 +207,21 @@ footer{
 }
 
 /********************************************/
+/* Contact Styling */
+.form-question{
+    padding:10px 20px;
+    width:400px;
+}
+form{
+    width:420px;
+}
+
+textarea{
+    padding:1px;
+    border-width:0;
+}
+
+/********************************************/
 /* Margin Styles */
 
 .ma-20{
@@ -199,6 +238,10 @@ footer{
 
 .mb-0{
     margin-bottom: 0px;
+}
+
+.ma-10{
+    margin:10px;
 }
 
 .mt-10{
