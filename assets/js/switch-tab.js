@@ -3,8 +3,8 @@ function switchTab(selection,tab){
     var curSelection = document.getElementsByClassName("active-selection");
 
     for(var i = 0; i< curSelection.length; i++){
-        curSelection[i].classList.remove("active-selection");
         curSelection[i].classList.add("inactive-selection");
+        curSelection[i].classList.remove("active-selection");
     }
 
     var newSelection = document.getElementById(selection);
@@ -16,8 +16,8 @@ function switchTab(selection,tab){
     var curTab = document.getElementsByClassName("active-tab");
 
     for(var i = 0; i< curTab.length; i++){
-        curTab[i].classList.remove("active-tab");
         curTab[i].classList.add("inactive-tab");
+        curTab[i].classList.remove("active-tab");
     }
 
     var newTab = document.getElementById(tab);

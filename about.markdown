@@ -11,7 +11,7 @@ Common Vibes was created with the intent of empowering women and freely expressi
 
 </p>
 
-<h2 class="yellow">Inspiration</h2>
+<h2 class="pink">Inspiration</h2>
 <p>
     The inspiration for the series came from the way society treats women talking about sex. If a man says he slept with a woman on the first date, he is a player. However if a woman sleeps with a man on the first date (god forbid), she is deemed a slut. Having a primarily male group of friends during the age of discovering my own ideas about sex and intimacy I would listen to hours on end of their sexual exploits. The moment I began to mention my own, the boys in the group would freak out and act as if I was speaking of something unnatural despite fitting directly into the conversation. Now as an adult I am open about my sexual experiences, and I believe that all women deserve the ability to speak out about their sex lives, or to keep it to themselves. The point is that we deserve just as much of a choice to speak as men.
 

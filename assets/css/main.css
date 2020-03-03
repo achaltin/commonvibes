@@ -1,13 +1,13 @@
 /*
     Colors!
-    Blue: #599ED7
+    Blue: #1A40A1
     Pink: #FFA8D6
-    Purple: #9171EC
-    Red: #CD4C51
+    Purple: #645CE3
+    Red: #8F2E42
 */
 
 .blue{
-    color: #599ED7;
+    color: #1A40A1;
 }
 
 .pink{
@@ -19,7 +19,7 @@
 }
 
 .red{
-    color: #cd4c51;
+    color: #8F2E42;
 }
 
 .yellow{
@@ -27,7 +27,7 @@
 }
 
 .bg-blue{
-    background-color: #599ED7;
+    background-color: #1A40A1;
 }
 
 .bg-pink{
@@ -35,11 +35,11 @@
 }
 
 .bg-purple{
-    background-color: #9171EC;
+    background-color: #645CE3;
 }
 
 .bg-red{
-    background-color: #cd4c51;
+    background-color: #8F2E42;
 }
 
 .bg-yellow{
@@ -47,7 +47,23 @@
 }
 
 .border-red{
-    border:2px solid #cd4c51;
+    border:2px solid #8F2E42;
+}
+
+.border-blue{
+    border: 2px solid #1A40A1;
+}
+
+.border-yellow{
+    border: 2px solid #D2D75F;
+}
+
+.border-pink{
+    border:2px solid #FFA8D6;
+}
+
+.border-purple{
+    border: 2px solid #645CE3;
 }
 
 /**************************************/
@@ -74,6 +90,7 @@ h1,h2,h3,h4,h5,h6{
 h1{
     font-size: 40px;
     font-family: "Bungee Shade";
+    text-align: center;
 }
 
 h2{
@@ -87,7 +104,7 @@ p{
     padding:10px;
 }
 
-a,p,li,ul,input,label,textarea{
+a,p,li,ul,input,label,textarea,button{
     font-family: 'Yanone Kaffeesatz', sans-serif;color:black;
     font-size: 20px;
 }
@@ -95,7 +112,7 @@ a,p,li,ul,input,label,textarea{
 /**************************************/
 /* Navigation & Footer bars */
 nav, footer{
-    background-color:#9171EC;
+    background-color:#645CE3;
     width:100%;
     display: inline-flex;
 }
@@ -118,13 +135,17 @@ footer{
 .nav-btn{
     background-color:#DFE0E2;
     padding: 10px;
-    border: 2px solid #599ED7;
+    border: 2px solid #8F2E42;
     margin: 5px 2.5px;
-    color: #599ED7;
+    color: #8F2E42;
     text-align: center;
     font-size: 22px;
     min-width:70px;
     max-width:200px;
+}
+
+.active-nav:last-of-type{
+    background-color:#D2D75F;
 }
 
 .nav-btn:hover{
@@ -141,29 +162,40 @@ footer{
     max-width: 800px;
 }
 
+.page-container.extra-wide{
+    max-width: 100%;
+}
+
 /********************************************/
 /* Cast Page Specific Styles */
-.cast{
+ul.cast{
     display:inline-flex;
 }
 
-.cast img {
-    height: 150px;
-    width: 150px;
-    margin: 5px;
-    border: 1px solid #599ED7;
+.cast-profile {
+    height: 200px;
+    width: 200px;
+}
+
+.cast-block img.dating-icons{
+    height:50px;
+    left:37px;
+    bottom:2px;
+    position:absolute; 
 }
 
 .cast-block{
-    background-color: #FFA8D6;
+    background-color: #FFFFFF;
     margin-left: 15px;
-    border: 2px solid #599ED7;
-    width: 47%;
+    width: 200px;
+    height:450px;
+    display:block;
+    position:relative;
 }
 
-.cast-role{
-    color: #599ED7;
-}
+/* .cast-role{
+    color: #1A40A1;
+} */
 
 /********************************************/
 /* Episode Styling */
@@ -210,17 +242,26 @@ footer{
 /* Contact Styling */
 .form-question{
     padding:10px 20px;
-    width:400px;
 }
 form{
     width:420px;
+    margin:auto;
 }
 
-textarea{
+textarea,input[type=text],input[type=email]{
     padding:1px;
-    border-width:0;
+    border: 1px solid #8F2E42;
+    width:100%;
 }
 
+button{
+    width:100px;
+    height:50px;
+}
+
+button:hover{
+    background-color:#D2D75F;
+}
 /********************************************/
 /* Margin Styles */
 

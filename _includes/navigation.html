@@ -5,7 +5,7 @@
     <ul>
         {% for item in site.data.navigation %}
             <li>
-                <a class="nav-btn" href="{{ item.link }}" {% if page.url == item.link %}style="color: #9171EC;"{% endif %}>
+                <a class="nav-btn {% if page.url contains item.link and item.name !='Home' %}active-nav{% endif %}" href="{{ item.link }}" >
                   {{ item.name }}
                 </a> 
             </li>
