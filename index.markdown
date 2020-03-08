@@ -6,3 +6,5 @@ layout: default
 title: "Home"
 ---
 <h1>Common Vibes</h1>
+
+<h2 class="log-line">What happens when four very different women room together? Sex. Not with each other (you wish), but they’re certainly open to exploring their own sexual antics.</h2>

@@ -1,6 +1,6 @@
 ---
 layout: episode
-season: 1
+season: 2
 episode: 1
 episode-title: "Pilot"
 video-link: "https://www.youtube.com/embed/GCIVK6LDUtg"

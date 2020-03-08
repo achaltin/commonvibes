@@ -36,6 +36,7 @@ permalink: /episodes/
                 <h3>{{ episode.season }}.{{ episode.episode }} : {{ episode.episode-title }}</h3>
                 <iframe width="560" height="315" src="{{ episode.video-link }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
                 </iframe>
+                <p>{{ episode.description }}</p>
             </li>
         {% endif %}
     {% endfor %}
@@ -87,4 +88,8 @@ permalink: /episodes/
         {% endif %}
     {% endfor %}
     </ul>
+</div>
+
+<div class="season inactive-tab" id="t5">
+    <h2>Extras</h2>
 </div>

@@ -16,11 +16,8 @@ function switchTab(selection,tab){
     var curTab = document.getElementsByClassName("active-tab");
 
     for(var i = 0; i< curTab.length; i++){
-        curTab[i].classList.add("inactive-tab");
-        curTab[i].classList.remove("active-tab");
+        curTab[i].className = "season inactive-tab";
     }
 
-    var newTab = document.getElementById(tab);
-    newTab.classList.add("active-tab");
-    newTab.classList.remove("inacrive-tab");
+    document.getElementById(tab).className = "season active-tab";
 }
