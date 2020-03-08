@@ -8,7 +8,7 @@ page-width: "extra-wide"
 <h1>Common Vibes Cast and Crew</h1>
 
 <div class="season-bar">
-    <ul>
+    <ul class="center-bar">
         <li class="nav-btn active-selection" id="cast-btn" onclick="switchTab('cast-btn','cast-tab')">
             Cast
         </li>
