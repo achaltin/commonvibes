@@ -135,6 +135,18 @@ a,p,li,ul,input,label,textarea,button{
     margin:5px;
 }
 
+.page-container{
+    padding:20px;
+    margin:0 auto;
+    min-height:100%;
+    max-width: 800px;
+    background-color:#F5BFFF;
+}
+
+.page-container.extra-wide{
+    max-width: 100%;
+}
+
 .temp-logo{
     text-decoration: none;
     font-size: 30px;
@@ -142,6 +154,20 @@ a,p,li,ul,input,label,textarea,button{
 
 nav a{
     text-decoration: none;;
+}
+
+.post{
+    display:flex;
+    padding:0;
+    margin-bottom:50px;
+}
+
+.post-info{
+    width:100px;
+}
+
+.post-content{
+    flex:1;
 }
 /**************************************/
 /* Navigation & Footer bars */
@@ -189,18 +215,6 @@ footer{
 .nav-logo{
     height: 50px;
     padding-right: 20px;
-}
-
-.page-container{
-    padding:20px;
-    margin:0 auto;
-    min-height:100%;
-    max-width: 800px;
-    background-color:#F5BFFF;
-}
-
-.page-container.extra-wide{
-    max-width: 100%;
 }
 
 /********************************************/
