@@ -2,7 +2,7 @@
 short_name: jack
 name: Michael Dritto
 role: Jack
-headshot: "../assets/images/example-profile.png"
+headshot: "../assets/images/MichaelDrittoHS.jpg"
 about: "Michael Dritto is a Chicago based actor, writer and producer. He graduated with his BFA from the University of Central Florida. He moved to Chicago because he has a sense of humor about the weather. He currently helps write and produce a podcast called Sit Still, Look Opinionated. Follow him on Instagram @michaeldritto"
 border: "border-purple"
 text: "purple"

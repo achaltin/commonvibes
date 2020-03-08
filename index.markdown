@@ -7,4 +7,9 @@ title: "Home"
 ---
 <h1>Common Vibes</h1>
 
-<h2 class="log-line">What happens when four very different women room together? Sex. Not with each other (you wish), but they’re certainly open to exploring their own sexual antics.</h2>
+<div class="log-line">
+<p class="ma-0">What happens when four very different women room together?
+</p>
+<p><span class="bold">Sex.</span></p>
+<p class="ma-0">Not with each other (you wish), but exploring their own sexual antics.</p>
+</div>

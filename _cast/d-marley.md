@@ -2,7 +2,7 @@
 short_name: marley
 name: Lauren Lavediere
 role: Marley
-headshot: "../assets/images/example-profile.png"
+headshot: "../assets/images/Laverdiere_Headshot.jpg"
 about: "Lauren Laverdiere is an actress in Chicago finishing up her senior year at the Chicago College of Performing Arts. Favorite credits include West Park, Someday Soon, and, of course, Common Vibes. Follow her at www.laurenlaverdiere.com or @laurenlaverdiere for more!"
 border: "border-pink"
 text: "pink"

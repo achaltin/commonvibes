@@ -2,7 +2,7 @@
 short_name: chloe
 name: Chloe Erb
 role: Cinematographer and Editor
-headshot: "../assets/images/example-profile.png"
+headshot: "../assets/images/chloeheadshot.jpg"
 about: ""
 border: "border-purple"
 text: "purple"

@@ -2,7 +2,7 @@
 short_name: alice
 name: Alice Maiterth
 role: Production Designer
-headshot: "../assets/images/example-profile.png"
+headshot: "../assets/images/aliceheadshot.JPG"
 about: "Born and raised in Oregon, Alice Maiterth is a Chicago based art director, comedian, and writer. She likes to make the “psycho films” her mom told her to stop making and loves to play in the trash @gaarbitch"
 border: "border-red"
 text: "red"

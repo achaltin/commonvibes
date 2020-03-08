@@ -1,11 +1,12 @@
 ---
 short_name: james
-name: Tom Dacey 
+name: Tom Dacey Carr
 role: James Hastings
-headshot: "../assets/images/example-profile.png"
+headshot: "../assets/images/TomDaceyCarrHeadshot.jpg"
 about: "Tom Dacey Carr is a Chicago based actor with numerous television and film credits including Chicago Fire and the indie paranormal feature The Headmistress. A classically trained actor, his most recent regional credit was playing Howie in the Pulitzer Award winning play “Rabbit Hole”. Tom earned his MFA at the University of North Carolina at Chapel Hill with Playmakers Repertory Theatre and is married with two grown daughters"
 border: "border-red"
 text: "red"
+hsposition: "obj-position-left"
 ---
 <p class="question">Favorite exotic animal</p>
 

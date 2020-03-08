@@ -2,7 +2,7 @@
 short_name: robyn
 name: Kristina Walter
 role: Robyn
-headshot: "../assets/images/example-profile.png"
+headshot: "../assets/images/KristinaWalterHeadshot.jpg"
 about: "Kristina Walter is a Chicago based actress who has lived in the second city for about 2 yrs. Before Chicago she traveled around the U.S doing Children's Theatre and Outdoor Drama. Recently she has started a Podcast with her friends called 'Sit Still Look Opinionated' helping 20 something's open up and feel confident talking about politics."
 border: "border-purple"
 text: "purple"

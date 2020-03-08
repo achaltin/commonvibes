@@ -2,7 +2,7 @@
 short_name: mark
 name: Andrew Cawley
 role: Mark
-headshot: "../assets/images/example-profile.png"
+headshot: "../assets/images/andrewhs.png"
 about: "Andrew Cawley is an actor/comedian/writer who spends his time teaching high schoolers and one year olds. He likes most of the people he meets and tries to like the others. He's pretty cool and he needs better healthcare."
 border: "border-blue"
 text: "blue"

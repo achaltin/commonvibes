@@ -2,7 +2,7 @@
 short_name: quinn
 name: Allegra Sweeney
 role: Quinn
-headshot: "../assets/images/example-profile.png"
+headshot: "../assets/images/AllegraHeadshot.jpeg"
 about: "Heyo! I’m a crazy cat lady who migrated to the Windy City from good ol’ Minnesota. I love pickles, oversized sweaters, and naps by a window with a breeze. "
 border: "border-blue"
 text: "blue"

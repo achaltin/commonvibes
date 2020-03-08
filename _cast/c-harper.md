@@ -2,7 +2,7 @@
 short_name: harper
 name: Alexandra Jaymes
 role: Harper
-headshot: "../assets/images/example-profile.png"
+headshot: "../assets/images/JAYMES_ALEXANDRA_HS.png"
 about: "Alexandra is a Chicago-based actor. Theatre credits: The Two Character Play, The Play of Adam, Twelfth Night, Kabuki Iago’s Plot, John Steinbeck’s Grapes of Wrath, Mr. Burn’s a Post-Electric Play, All The King’s Men and an ensemble member at Janus Theatre. Television credits: Empire (FOX), I Hate You Too (web series). Alexandra is a graduate from the University of Illinois at Urbana-Champaign."
 border: "border-red"
 text: "red"

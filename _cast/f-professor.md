@@ -2,7 +2,7 @@
 short_name: professor
 name: Nick Stockwell
 role: Professor Andrew Martin
-headshot: "../assets/images/example-profile.png"
+headshot: "../assets/images/NickStockwellHS.jpg"
 about: "Nick Stockwell was born in Boulder, CO. He attended CU Boulder to earn his BFA in Acting and later he attended Wayne State University in Detroit to earn his Masters Degree in Acting.  Nick is primarily trained in theater performance but has enjoyed his limited exposure in the film world. Thank you to everyone involved in this project you are all rock stars"
 border: "border-red"
 text: "red"

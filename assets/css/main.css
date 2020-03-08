@@ -115,6 +115,27 @@ a,p,li,ul,input,label,textarea,button{
     font-size: 20px;
 }
 
+.log-line{
+    margin:20px;
+}
+
+.log-line p{
+    text-align: center;
+    font-size: 28px;
+}
+
+.log-line .bold{
+    font-family:'Flames';
+    font-size: 45px;
+    letter-spacing: 1px;
+    margin:5px;
+}
+
+.temp-logo{
+    color:black;
+    text-decoration: none;
+    font-size: 30px;
+}
 /**************************************/
 /* Navigation & Footer bars */
 nav, footer{
@@ -180,8 +201,14 @@ ul.cast{
 }
 
 .cast-profile {
-    height: 200px;
-    width: 200px;
+    height: 370px;
+    width:325px;
+    object-fit: cover;
+    object-position: top;
+}
+
+.obj-position-left{
+    object-position: left;
 }
 
 .cast-block img.dating-icons{
@@ -220,6 +247,17 @@ p.answer{
     padding-top:0;
 }
 
+.cast-bar{
+    margin:10px;
+}
+
+.cast-bar ul{
+    display: inline-flex;
+}
+
+.center-bar{
+    margin:0 auto;
+}
 /********************************************/
 /* Episode Styling */
 .inactive-tab{
@@ -245,10 +283,6 @@ p.answer{
 
 .season-bar ul{
     display: inline-flex;
-}
-
-.center-bar{
-    margin:0 auto;
 }
 
 .comingsoon{
@@ -307,7 +341,7 @@ button:hover{
 }
 
 .ma-0{
-    margin:0px;
+    margin:0 0 0 0 !important;
 }
 
 .mt-0{
@@ -316,6 +350,10 @@ button:hover{
 
 .mb-0{
     margin-bottom: 0px;
+}
+
+.mb-50{
+    margin-bottom:50px;
 }
 
 .ma-10{

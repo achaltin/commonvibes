@@ -7,7 +7,7 @@ page-width: "extra-wide"
 
 <h1>Common Vibes Cast and Crew</h1>
 
-<div class="season-bar">
+<div class="cast-bar">
     <ul class="center-bar">
         <li class="nav-btn active-selection" id="cast-btn" onclick="switchTab('cast-btn','cast-tab')">
             Cast
@@ -23,7 +23,7 @@ page-width: "extra-wide"
     <ul class="cast">
     {% for castmember in site.cast %}
         <li class="cast-block {{ castmember.border }}">
-            <img src="{{ castmember.headshot }}" alt="{{ castmember.name }} Headshot" class="cast-profile"/>
+            <img src="{{ castmember.headshot }}" alt="{{ castmember.name }} Headshot" class="cast-profile {{ castmember.hsposition }}"/>
             <div class="cast-info">
                 <h2 class="pt-0 cast-name">{{ castmember.name }}</h2>
                 <h3 class="pt-0 cast-role {{ castmember.text }}">{{ castmember.role }}</h3>
@@ -40,7 +40,7 @@ page-width: "extra-wide"
     <ul class="cast">
     {% for crewmember in site.crew %}
         <li class="cast-block {{ crewmember.border }}">
-            <img src="{{ crewmember.headshot }}" alt="{{ crewmember.name }} Headshot" class="cast-profile"/>
+            <img src="{{ crewmember.headshot }}" alt="{{ crewmember.name }} Headshot" class="cast-profile {{ crewmember.hsposition }}"/>
             <div class="cast-info">
                 <h2 class="pt-0 cast-name">{{ crewmember.name }}</h2>
                 <h3 class="pt-0 cast-role {{ crewmember.text }}">{{ crewmember.role }}</h3>

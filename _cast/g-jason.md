@@ -2,7 +2,7 @@
 short_name: jason
 name: Travis Shanahan
 role: Jason
-headshot: "../assets/images/example-profile.png"
+headshot: "../assets/images/HeadshotTravisShanahan.jpg"
 about: "Travis Shanahan is a Chicago actor by way of Minneapolis, MN. While most of his work has been on the stage, he is super grateful to Ashlyn and everyone else involved for the opportunity to work on this fantastic project. Travis is represented by Shirley Hamilton Talent (woo Ham Fam!) Web: travisshanahan.com IG: @travjshan"
 border: "border-pink"
 text: "pink"
