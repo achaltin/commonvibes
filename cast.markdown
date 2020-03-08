@@ -5,7 +5,7 @@ permalink: /cast/
 page-width: "extra-wide"
 ---
 
-<h1>Common Vibes Cast and Crew</h1>
+<h1><span class="pink">Common</span><span class="blue">Vibes</span> Cast and Crew</h1>
 
 <div class="cast-bar">
     <ul class="center-bar">

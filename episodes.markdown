@@ -4,7 +4,7 @@ title: Episodes
 permalink: /episodes/
 ---
 
-<h1>Common Vibes Episodes</h1>
+<h1><span class="pink">Common</span><span class="blue">Vibes</span> Episodes</h1>
 
 <div class="season-bar">
     <ul>

@@ -81,6 +81,10 @@ html, body{
     margin:0;
 }
 
+body{
+    height:100%;
+}
+
 .adriator{
     font-family: 'Adriator','Bungee Shade', sans-serif;
 }
@@ -96,7 +100,7 @@ h1{
     font-family: "Flames";
     text-align: center;
     letter-spacing: 1px;
-    color:#e033ff;
+    color:#5581FF;
 }
 
 h2{
@@ -132,9 +136,12 @@ a,p,li,ul,input,label,textarea,button{
 }
 
 .temp-logo{
-    color:black;
     text-decoration: none;
     font-size: 30px;
+}
+
+nav a{
+    text-decoration: none;;
 }
 /**************************************/
 /* Navigation & Footer bars */
@@ -185,8 +192,11 @@ footer{
 }
 
 .page-container{
-    margin:20px auto;
+    padding:20px;
+    margin:0 auto;
+    height:100%;
     max-width: 800px;
+    background-color:#F5BFFF;
 }
 
 .page-container.extra-wide{

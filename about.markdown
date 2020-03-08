@@ -3,7 +3,7 @@ layout: default
 title: About
 permalink: /about/
 ---
-<h1>About Common Vibes</h1>
+<h1>About <span class="pink">Common</span><span class="blue">Vibes</span></h1>
 
 <div class="bg-lightblue border-purple mb-50 mt-10">
 <h2 class="pink">Our Mission</h2>
