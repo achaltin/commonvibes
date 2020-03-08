@@ -8,7 +8,7 @@ permalink: /episodes/
 
 <div class="season-bar">
     <ul>
-        <li class="nav-btn active-selection" id="s1" onclick="switchTab('s1','t1')">
+        <li class="nav-btn inactive-selection" id="s1" onclick="switchTab('s1','t1')">
             Season 1
         </li>
         <li class="nav-btn inactive-selection" id="s2" onclick="switchTab('s2','t2')">
@@ -20,16 +20,16 @@ permalink: /episodes/
         <li class="nav-btn inactive-selection" id="s4" onclick="switchTab('s4','t4')">
             Season 4
         </li>
-        <li class="nav-btn inactive-selection" id="s5" onclick="switchTab('s5','t5')">
+        <li class="nav-btn active-selection" id="s5" onclick="switchTab('s5','t5')">
             Extras
         </li>
     </ul>
 </div>
 
 
-<div class="season active-tab" id="t1">
+<div class="season inactive-tab" id="t1">
     <h2>Season 1</h2>
-    <ul>
+    <!-- <ul>
     {% for episode in site.episodes %}
         {% if episode.season == 1 %}
             <li>
@@ -40,14 +40,18 @@ permalink: /episodes/
             </li>
         {% endif %}
     {% endfor %}
-    </ul>
-<div>
+    </ul> -->
+    <div class="comingsoon border-pink bg-yellow">
+        <h1 class="pink">Cumming Soon</h1>
+    </div>
+</div>
+<p class="pa-0"></p>
 
 
 <div class="season inactive-tab" id="t2">
     <h2>Season 2</h2>
-    <ul>
-    {% for episode in site.episodes %}
+ <!--     <ul>
+  {% for episode in site.episodes %}
         {% if episode.season == 2 %}
             <li>
                 <h3>{{ episode.season }}.{{ episode.episode }} : {{ episode.episode-title }}</h3>
@@ -56,8 +60,11 @@ permalink: /episodes/
             </li>
         {% endif %}
     {% endfor %}
-    </ul>
-<div>
+    </ul> -->
+    <div class="comingsoon border-pink bg-yellow">
+        <h1 class="pink">Cumming Soon</h1>
+    </div>
+</div>
 
 
 <div class="season inactive-tab" id="t3">
@@ -73,6 +80,9 @@ permalink: /episodes/
         {% endif %}
     {% endfor %}
     </ul>
+    <div class="comingsoon border-pink bg-yellow">
+        <h1 class="pink">Cumming Soon</h1>
+    </div>
 </div>
 
 <div class="season inactive-tab" id="t4">
@@ -88,8 +98,11 @@ permalink: /episodes/
         {% endif %}
     {% endfor %}
     </ul>
+    <div class="comingsoon border-pink bg-yellow">
+        <h1 class="pink">Cumming Soon</h1>
+    </div>
 </div>
 
-<div class="season inactive-tab" id="t5">
+<div class="season active-tab" id="t5">
     <h2>Extras</h2>
 </div>
