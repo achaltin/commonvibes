@@ -1,8 +1,10 @@
 /*
     Colors!
-    Blue: #1A40A1
-    Pink: #FFA8D6
-    Purple: #645CE3
+    Blue: #5581FF
+    Light Blue: #D5F9FF
+    Pink: #FF529F
+    Purple: #e033ff
+    Light Purple: #F5BFFF
     Red: #ff4545
 */
 
@@ -168,6 +170,16 @@ nav a{
 
 .post-content{
     flex:1;
+}
+
+.post-date{
+    font-weight: bold;
+    font-size: 16px;
+    padding-top:0;
+}
+
+.flexbox{
+    display:inline-flex;
 }
 /**************************************/
 /* Navigation & Footer bars */

@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 <h1>About <span class="pink">Common</span><span class="blue">Vibes</span></h1>
-
+{% include logline.html %}
 <div class="bg-lightblue border-purple mb-50 mt-10">
 <h2 class="pink">Our Mission</h2>
 <p class="pt-0">
