@@ -17,7 +17,7 @@ title: "Home"
     <div class="post {{ post.border }} {{ post.background }}">
         <div class="post-description">
             <h4 class="{{ post.color }}">{{ post.title }}</h4>
-            <p class="post-date {{ post.color }}">{{ post.date | date: "%B %-d %Y, %I:%M %p"}}</p>
+            <p class="post-date {{ post.color }}">{{ post.datestamp }}</p>
             <p class="{{ post.color }}">{{ post.description }} </p>
         </div>
         <div class="post-content">

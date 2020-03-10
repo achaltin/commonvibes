@@ -1,6 +1,6 @@
 ---
 title:  "COMMON VIBES PRESENTS: How to Use a Condom!"
-date:   2020-03-08 13:00:00 -0500
+datestamp: March 8 2020 1:00 PM
 categories: promos
 color: pink
 border: border-pink
