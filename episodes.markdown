@@ -42,7 +42,7 @@ permalink: /episodes/
     {% endfor %}
     </ul> -->
     <div class="comingsoon border-pink bg-yellow">
-        <h1 class="pink">Cumming Soon</h1>
+        <h1 class="pink">Cumming April 2020</h1>
     </div>
 </div>
 <p class="pa-0"></p>
@@ -105,26 +105,36 @@ permalink: /episodes/
 
 <div class="season active-tab" id="t5">
     <h2>Extras</h2>
-<div class="post border-pink pink bg-yellow">
-    <div class="post-description">
-        <h4 class="pink">COMMON VIBES PRESENTS: How to Use a Condom!</h4>
-        <p class="pink">HAPPY INTERNATIONAL WOMEN’S DAY!<br/>
-To celebrate this wonderful day, and the gorgeous weather in Chi-Town..<br/>
+    <div class="episode-list">
+        <div class="episode border-pink pink bg-yellow">
+        <h5 class="episode-number bg-pink yellow">Promo #1: How to Use a Condom!</h5>
+        <div class="episode-video">
+            <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FCommonVibesSeries%2Fvideos%2F139522734042085%2F&show_text=0&width=350" width="350" height="250" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true" class="partial-border-pink"></iframe>
+        </div>
+        <div class="episode-description">
+            <p class="pink">
+            Meet Quinn as she gives a mini sex ed lesson on condoms! </p>
 
-Meet Quinn as she gives a mini sex ed lesson on condoms!<br/>
-
-Stay tuned for Common Vibes Season One, premiering this April!<br/>
-
-www.commonvibesseries.com<br/>
-INSTA: @akfeatures<br/>
-
-
-Music:<br/>
-bensound.com;<br/>
-Perfect Blue - Running From the Hills</p>
+<p class="pink credit">
+            Music: bensound.com; Perfect Blue - Running From the Hills
+            </p>
+        </div>
     </div>
-    <div class="post-content">
-        <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FCommonVibesSeries%2Fvideos%2F139522734042085%2F&show_text=0&width=476" width="476" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+
+<div class="episode border-red bg-lightblue">
+        <h5 class="episode-number bg-red lightblue">Promo #2: Title</h5>
+        <div class="episode-video">
+            <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FCommonVibesSeries%2Fvideos%2F139522734042085%2F&show_text=0&width=350" width="350" height="250" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true" class="partial-border-red"></iframe>
+        </div>
+        <div class="episode-description">
+            <p class="red">
+            Meet Quinn as she gives a mini sex ed lesson on condoms! </p>
+
+<p class="red credit">
+            Music: bensound.com; Perfect Blue - Running From the Hills
+            </p>
+        </div>
     </div>
 </div>
+
 </div>
