@@ -122,16 +122,16 @@ permalink: /episodes/
     </div>
 
 <div class="episode border-red bg-lightblue">
-        <h5 class="episode-number bg-red lightblue">Promo #2: Title</h5>
+        <h5 class="episode-number bg-red lightblue">Promo #2: Tight or Loose?</h5>
         <div class="episode-video">
-            <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FCommonVibesSeries%2Fvideos%2F139522734042085%2F&show_text=0&width=350" width="350" height="250" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true" class="partial-border-red"></iframe>
+            <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FCommonVibesSeries%2Fvideos%2F553634041932436%2F&show_text=0&width=350" width="350" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
         </div>
         <div class="episode-description">
             <p class="red">
-            Meet Quinn as she gives a mini sex ed lesson on condoms! </p>
+            Meet Robyn as she clears up a common myth and gives some.. helpful.. tips!</p>
 
 <p class="red credit">
-            Music: bensound.com; Perfect Blue - Running From the Hills
+            Music: bensound.com; Sunday Cruise - Philophobia
             </p>
         </div>
     </div>
