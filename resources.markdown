@@ -17,6 +17,11 @@ permalink: /resources/
         <li>
             <a href="https://www.plannedparenthood.org/learn" target="_blank">Planned Parenthood</a> sexual health information
         </li>
+        <li>Pain with sex (or other penetration like using a tampon) is often a symptom of 
+            <a href="https://my.clevelandclinic.org/health/diseases/15723-vaginismus" target="_blank">Vaginismus
+            </a>
+        . While often a result of sexual assault or trauma, it can also be caused by fear of sex, anxiety, or a negative emotion about sex. It is very treatable with vaginal exercises and talk therapy.
+        </li>
     </ul>
 </p>
 
@@ -24,10 +29,13 @@ permalink: /resources/
 <p class="pa-0">
     <ul class="resources">
         <li>
-            National Sexual Assault Hotline: <a href="tel:18006564673">1-800-656-4673</a>
+            National Sexual Assault Hotline: <a href="tel:18006564673">1-800-656-4673</a> supported by the <a href="https://www.rainn.org/" target="_blank">Rape, Abuse & Incest National Network (RAINN)</a>
         </li>
         <li>
             <a href="https://www.ccc.edu/departments/Documents/Chicago%20Sexual%20Assault%20Resources.pdf" target="_blank">Chicago area sexual assault resources</a>
+        </li>
+        <li>
+            In the case of sexual assault, it's highly recommended to get a forensic exam (aka rape kit). Deciding to report and get examined is an incredibly personal decision that only the survivor can make. The most evidence can be recovered within 72 hours of the assault, but there may be some evidence longer. <a href="https://www.rainn.org/articles/rape-kit" target="_blank">This is the process of undergoing a rape kit.</a>
         </li>
     </ul>
 </p>
