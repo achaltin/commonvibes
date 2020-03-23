@@ -28,6 +28,10 @@
     color: #ff4545;
 }
 
+.white{
+    color:#fff;
+}
+
 .yellow{
     color:#FFFB86
 }
@@ -404,6 +408,41 @@ button:hover{
 .resources a:hover{
     color: #FF529F;
 }
+
+blockquote {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 50px;
+    padding-left: 15px;
+    border-left: 3px solid #FF529F;
+    width:80%;
+  }
+
+  blockquote p{
+    font: 14px/22px 'Yanone Kaffeesatz', sans-serif;
+    font-style: italic;
+    padding: 0 0 5px 0;
+    text-align: center;
+
+  }
+
+  .quote-source{
+      text-align: right;
+      font-style:normal;
+  }
+
+  .resource-bar{
+      height:50px;
+      margin-top:10px;
+  }
+
+  .resource-bar ul{
+    display:inline-flex;
+  }
+
+  #resource-list{
+      margin-bottom:50px;
+  }
 
 /********************************************/
 /* Margin Styles */
