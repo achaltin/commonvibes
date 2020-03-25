@@ -1,8 +1,15 @@
 <nav id="navbar">
+    <div class="logo-wrapper">
     <a href="/">
         <!-- <img src="../assets/images/logo.png" alt="Common Vibes Logo" class="nav-logo"/> -->
         <h1 class="temp-logo"><span class="pink">Common</span><span class="yellow">Vibes</span></h1>
     </a>
+    <div class="mobile-only flex-grow"></div>
+    <button class="mobile-only" onclick="toggleMenu();">
+        <img src="../assets/images/menuicon.png" alt="Menu Icon: Click to Expand Navigation Menu" style="height:30px;padding-left:10px;padding-top:10px; filter: invert(100%) sepia(3%) saturate(7497%) hue-rotate(329deg) brightness(106%) contrast(116%);"/>
+    </button>
+</div>
+<div class="menu-list-wrapper" id="menuList">
     <ul>
         {% for item in site.data.navigation %}
             <li>
@@ -12,4 +19,5 @@
             </li>
         {% endfor %}
     </ul>
+</div>
 </nav>

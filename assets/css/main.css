@@ -133,6 +133,10 @@ a,p,li,ul,input,label,textarea,button{
     font-size: 20px;
 }
 
+.mobile-only{
+    display:none;
+}
+
 .log-line{
     margin:20px;
 }
@@ -192,6 +196,11 @@ nav a{
 
 .flexbox{
     display:inline-flex;
+}
+
+.flex-grow{
+    width:1px;
+    flex-grow: 2;
 }
 /**************************************/
 /* Navigation & Footer bars */
@@ -400,7 +409,7 @@ button{
     height:50px;
 }
 
-button:hover{
+button.nav-btn:hover{
     background-color:#D5F9FF;
 }
 
