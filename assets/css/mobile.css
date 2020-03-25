@@ -4,6 +4,11 @@
         display:block;
     }
 
+    button.mobile-only{
+        background-color: transparent;
+        border:none;
+    }
+
     .visible{
         display:block !important;
     }
