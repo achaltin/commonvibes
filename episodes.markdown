@@ -124,7 +124,7 @@ permalink: /episodes/
 <div class="episode border-red bg-lightblue">
         <h5 class="episode-number bg-red lightblue">Promo #2: Tight or Loose?</h5>
         <div class="episode-video">
-            <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FCommonVibesSeries%2Fvideos%2F553634041932436%2F&show_text=0&width=350" width="350" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+            <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FCommonVibesSeries%2Fvideos%2F553634041932436%2F&show_text=0&width=350" width="350" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true" class="partial-border-red"></iframe>
         </div>
         <div class="episode-description">
             <p class="red">
@@ -136,5 +136,21 @@ permalink: /episodes/
         </div>
     </div>
 </div>
+
+<div class="episode border-lightblue bg-purple">
+        <h5 class="episode-number bg-lightblue purple">Promo #3: (The Concept of) Virginity</h5>
+        <div class="episode-video">
+            <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FCommonVibesSeries%2Fvideos%2F237320487660994%2F&show_text=0&width=350" width="350" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true" class="partial-border-lightblue"></iframe>
+        </div>
+        <div class="episode-description">
+            <p class="lightblue">
+            Meet Harper as she downplays the outdated idea of virginity!</p>
+
+<p class="lightblue credit">
+            Music: bensound.com; Sunday Cruise - Sad Boi
+            </p>
+        </div>
+    </div>
+
 
 </div>

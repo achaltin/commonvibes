@@ -68,6 +68,10 @@
     border: 2px solid #5581FF;
 }
 
+.border-lightblue{
+    border: 2px solid #D5F9FF;
+}
+
 .border-yellow{
     border: 2px solid #FFFB86;
 }
@@ -310,6 +314,7 @@ p.answer{
 
 .active-tab{
     display: block;
+    margin-bottom:50px;
 }
 
 .episode-list{
@@ -362,6 +367,11 @@ h4.episode-title{
 .partial-border-pink{
     border-top:2px solid #FF529F;
     border-bottom:2px solid #FF529F;
+}
+
+.partial-border-lightblue{
+    border-top:2px solid #D5F9FF;
+    border-bottom:2px solid #D5F9FF;
 }
 
 p.credit{
