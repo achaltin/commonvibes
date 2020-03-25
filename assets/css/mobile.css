@@ -87,4 +87,14 @@
     .cast-info{
         margin-bottom: 100px;
     }
+    
+    .episode{
+        width:97%;
+        margin: 5px 0;
+    }
+
+    .episode iframe{
+        width:100%;
+    }
+
   }
