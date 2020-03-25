@@ -1,0 +1,22 @@
+@media only screen and (max-width: 550px) {
+    body {
+      background-color: lightblue;
+    }
+
+    .post{
+        width:95%;
+        display: block;
+    }
+    .post-info{
+        width:100%;
+    }
+
+    .post-content{
+        width:100%;
+    }
+
+    .post-content iframe{
+        width:100%;
+        height:260px;
+    }
+  }
