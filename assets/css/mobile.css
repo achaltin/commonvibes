@@ -14,7 +14,8 @@
 
     nav{
         display:block;
-        position:fixed;
+        position: absolute;
+        z-index: 100;
     }
 
     nav button{
@@ -58,5 +59,32 @@
 
     .season-bar ul{
         display:block;
+    }
+
+    form{
+        width:95%;
+        margin-bottom: 45px;
+    }
+
+    ul.cast{
+        display:block;
+    }
+
+    .cast-block{
+        width:97%;
+        margin:5px 0;
+    }
+    .cast-profile{
+        width:100%;
+    }
+
+    .cast-block img.dating-icons{
+        height:100px;
+        width:100%;
+        left:0;
+    }
+
+    .cast-info{
+        margin-bottom: 100px;
     }
   }
