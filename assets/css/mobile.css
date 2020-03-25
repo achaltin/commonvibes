@@ -57,8 +57,9 @@
         height:260px;
     }
 
-    .season-bar ul{
-        display:block;
+    .season-bar ul, .resource-bar ul{
+        display:inline-flex;
+        flex-wrap: wrap;
     }
 
     form{
@@ -97,4 +98,16 @@
         width:100%;
     }
 
-  }
+    .resource-bar li{
+        margin: 25px 0;
+    }
+
+    blockquote {
+        margin-left:25px;
+    }
+
+    blockquote p{
+        padding:0 20px 5px 0;
+
+    }
+}
