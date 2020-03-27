@@ -2,7 +2,7 @@
 short_name: amelia
 name: Amelia Chaltin
 role: Webmaster
-headshot: "../assets/images/ameliahs.jpeg"
+headshot: "../assets/images/ameliahs.jpg"
 about: "Amelia Chaltin is a Chicago based Software Engineer. She works in game development and enjoys making websites in her free time. Check out her work at ameliachaltin.com"
 border: "border-pink"
 text: "pink"
