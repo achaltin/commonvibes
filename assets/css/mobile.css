@@ -5,7 +5,7 @@
     }
 
     .mobile-only{
-        display:block;
+        display:block !important;
     }
 
     .lb-lightblue, .lb-red, .lb-pink, .lb-blue{

@@ -6,13 +6,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Common Vibes Series - {{ page.title }}</title>
     <meta itemprop="description" name="description" content="{% if page.description %}{{ page.description | truncate: 160 }}{% else %}{{ site.description | truncate: 160  }}{% endif %}"/>
-    <link href="https://fonts.googleapis.com/css?family=Satisfy|Yanone+Kaffeesatz&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Bungee|Bungee+Shade&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Bungee|Yanone+Kaffeesatz&display=swap" rel="stylesheet">
 
     <link href="../assets/css/reset.css" rel="stylesheet"/>
     <link href="../assets/css/main.css" rel="stylesheet"/>
     <link href="../assets/css/mobile.css" rel="stylesheet"/>
     <link href="../assets/fonts/webfontkit-20200308-013337/stylesheet.css" rel="stylesheet"/>
+
+    <script async defer type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=5e7d787f1b93d200194e5e07&product=inline-share-buttons" async="async"></script>
   </head>
   <body>    
     {% if page.title == "Home" %}
@@ -21,10 +22,14 @@
       <script async defer src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.2"></script>
       {% endif %}
      {% include navigation.html %}
-     <div class="page-container {{ page.page-width }}">
+     <div class="page-container {{ page.page-width }}"> 
+       <div class="sharethis-inline-share-buttons mobile-only mt-10"></div>
+      
         {{ content }}
       </div>
-      {% include footer.html %}
+
+
+     {% include footer.html %}
   </body>
 
   <script type="text/javascript">
@@ -64,4 +69,6 @@
 }
 </script>
 {% endif %}
+
+
 </html>

@@ -150,7 +150,7 @@ a,p,li,ul,input,label,textarea,button{
 }
 
 .mobile-only{
-    display:none;
+    display:none !important;
 }
 
 .log-line{
