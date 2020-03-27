@@ -14,10 +14,5 @@ INSTA: @akfeatures<br/>
 Music:<br/>
 bensound.com;<br/>
 Perfect Blue - Running From the Hills"
-media: <div class="fb-video lb-blue"
-  data-href="https://www.facebook.com/CommonVibesSeries/videos/139522734042085/"
-  data-width="476"
-  data-allowfullscreen="true"
-  data-autoplay="false"
-  data-show-captions="true"></div>
+media: <iframe src="" data-src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FCommonVibesSeries%2Fvideos%2F139522734042085%2F&show_text=0&width=476" width="476" style="overflow:hidden; height:100%" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true" class="lb-blue fb-video"></iframe>
 ---

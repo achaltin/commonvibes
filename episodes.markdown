@@ -109,7 +109,7 @@ permalink: /episodes/
         <div class="episode border-blue pink bg-yellow">
         <h5 class="episode-number bg-blue yellow">Promo #1: How to Use a Condom!</h5>
         <div class="episode-video">
-            <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FCommonVibesSeries%2Fvideos%2F139522734042085%2F&show_text=0&width=350" width="350" height="250" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true" class="partial-border-blue"></iframe>
+            <iframe src="" data-src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FCommonVibesSeries%2Fvideos%2F139522734042085%2F&show_text=0&width=350" width="350" height="250" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true" class="partial-border-blue"></iframe>
         </div>
         <div class="episode-description">
             <p class="blue">
@@ -124,7 +124,7 @@ permalink: /episodes/
 <div class="episode border-lightblue bg-purple">
         <h5 class="episode-number bg-lightblue purple">Promo #2: Tight or Loose?</h5>
         <div class="episode-video">
-            <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FCommonVibesSeries%2Fvideos%2F553634041932436%2F&show_text=0&width=350" width="350" height="250" style="overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true" class="partial-border-lightblue"></iframe>
+            <iframe src="" data-src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FCommonVibesSeries%2Fvideos%2F553634041932436%2F&show_text=0&width=350" width="350" height="250" style="overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true" class="partial-border-lightblue"></iframe>
         </div>
         <div class="episode-description">
             <p class="lightblue">
@@ -140,7 +140,7 @@ permalink: /episodes/
 <div class="episode border-red bg-lightblue">
         <h5 class="episode-number bg-red lightblue">Promo #3: (The Concept of) Virginity</h5>
         <div class="episode-video">
-            <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FCommonVibesSeries%2Fvideos%2F237320487660994%2F&show_text=0&width=350" width="350" height="250" style="overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true" class="partial-border-red"></iframe>
+            <iframe src="" data-src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FCommonVibesSeries%2Fvideos%2F237320487660994%2F&show_text=0&width=350" width="350" height="250" style="overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true" class="partial-border-red"></iframe>
         </div>
         <div class="episode-description">
             <p class="red">

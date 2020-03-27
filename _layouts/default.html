@@ -13,14 +13,9 @@
     <link href="../assets/css/mobile.css" rel="stylesheet"/>
     <link href="../assets/fonts/webfontkit-20200308-013337/stylesheet.css" rel="stylesheet"/>
 
-    <script async defer type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=5e7d787f1b93d200194e5e07&product=inline-share-buttons" async="async"></script>
+    <script async defer type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=5e7d787f1b93d200194e5e07&product=inline-share-buttons"></script>
   </head>
   <body>    
-    {% if page.title == "Home" %}
-      <!-- Load Facebook SDK for JavaScript -->
-      <div id="fb-root"></div>
-      <script async defer src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.2"></script>
-      {% endif %}
      {% include navigation.html %}
      <div class="page-container {{ page.page-width }}"> 
        <div class="sharethis-inline-share-buttons mobile-only mt-10"></div>
@@ -38,6 +33,15 @@
 
     menuList.classList.toggle("visible");
 }
+
+function init() {
+var vidDefer = document.getElementsByTagName('iframe');
+for (var i=0; i<vidDefer.length; i++) {
+if(vidDefer[i].getAttribute('data-src')) {
+vidDefer[i].setAttribute('src',vidDefer[i].getAttribute('data-src'));
+} } }
+window.onload = init;
+
   </script>
 
 

@@ -16,10 +16,5 @@ INSTA: @akfeatures<br/>
 Music:<br/>
 bensound.com;<br/>
 Sunday Cruise - Philophobia"
-media: <div class="fb-video lb-lightblue"
-  data-href="https://www.facebook.com/CommonVibesSeries/videos/553634041932436/"
-  data-width="476"
-  data-allowfullscreen="true"
-  data-autoplay="false"
-  data-show-captions="true"></div>
+media: <iframe src="" data-src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FCommonVibesSeries%2Fvideos%2F553634041932436%2F&show_text=0&width=350" width="476" style="overflow:hidden;height:100%" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true" class="lb-lightblue fb-video"></iframe>
 ---
