@@ -106,48 +106,48 @@ permalink: /episodes/
 <div class="season active-tab" id="t5">
     <h2>Extras</h2>
     <div class="episode-list">
-        <div class="episode border-pink pink bg-yellow">
-        <h5 class="episode-number bg-pink yellow">Promo #1: How to Use a Condom!</h5>
+        <div class="episode border-blue pink bg-yellow">
+        <h5 class="episode-number bg-blue yellow">Promo #1: How to Use a Condom!</h5>
         <div class="episode-video">
-            <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FCommonVibesSeries%2Fvideos%2F139522734042085%2F&show_text=0&width=350" width="350" height="250" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true" class="partial-border-pink"></iframe>
+            <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FCommonVibesSeries%2Fvideos%2F139522734042085%2F&show_text=0&width=350" width="350" height="250" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true" class="partial-border-blue"></iframe>
         </div>
         <div class="episode-description">
-            <p class="pink">
+            <p class="blue">
             Meet Quinn as she gives a mini sex ed lesson on condoms! </p>
 
-<p class="pink credit">
+<p class="blue credit">
             Music: bensound.com; Perfect Blue - Running From the Hills
             </p>
         </div>
     </div>
 
-<div class="episode border-red bg-lightblue">
-        <h5 class="episode-number bg-red lightblue">Promo #2: Tight or Loose?</h5>
+<div class="episode border-lightblue bg-purple">
+        <h5 class="episode-number bg-lightblue purple">Promo #2: Tight or Loose?</h5>
         <div class="episode-video">
-            <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FCommonVibesSeries%2Fvideos%2F553634041932436%2F&show_text=0&width=350" width="350" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true" class="partial-border-red"></iframe>
+            <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FCommonVibesSeries%2Fvideos%2F553634041932436%2F&show_text=0&width=350" width="350" height="250" style="overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true" class="partial-border-lightblue"></iframe>
         </div>
         <div class="episode-description">
-            <p class="red">
+            <p class="lightblue">
             Meet Robyn as she clears up a common myth and gives some.. helpful.. tips!</p>
 
-<p class="red credit">
+<p class="lightblue credit">
             Music: bensound.com; Sunday Cruise - Philophobia
             </p>
         </div>
     </div>
 </div>
 
-<div class="episode border-lightblue bg-purple">
-        <h5 class="episode-number bg-lightblue purple">Promo #3: (The Concept of) Virginity</h5>
+<div class="episode border-red bg-lightblue">
+        <h5 class="episode-number bg-red lightblue">Promo #3: (The Concept of) Virginity</h5>
         <div class="episode-video">
-            <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FCommonVibesSeries%2Fvideos%2F237320487660994%2F&show_text=0&width=350" width="350" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true" class="partial-border-lightblue"></iframe>
+            <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FCommonVibesSeries%2Fvideos%2F237320487660994%2F&show_text=0&width=350" width="350" height="250" style="overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true" class="partial-border-red"></iframe>
         </div>
         <div class="episode-description">
-            <p class="lightblue">
+            <p class="red">
             Meet Harper as she downplays the outdated idea of virginity!</p>
 
-<p class="lightblue credit">
-            Music: bensound.com; Sunday Cruise - Sad Boi
+<p class="red credit">
+            Musiredc: bensound.com; Sunday Cruise - Sad Boi
             </p>
         </div>
     </div>

@@ -1,7 +1,35 @@
 @media only screen and (max-width: 550px) {
     
+    html, body{
+        background-color: #F5BFFF;
+    }
+
     .mobile-only{
         display:block;
+    }
+
+    .lb-lightblue, .lb-red, .lb-pink, .lb-blue{
+        border-left:0;
+    }
+
+    .lb-red{
+        border-top: 2px solid #ff4545;
+    }
+
+    .lb-lightblue{
+        border-top: 2px solid #D5F9FF;
+    }
+
+    .lb-pink{
+        border-top:2px solid #FF529F;
+    }
+
+    .lb-blue{
+        border-top: 2px solid #5581FF;
+    }
+
+    .post-description{
+        width:95%;
     }
 
     button.mobile-only{
@@ -55,11 +83,22 @@
 
     .post-content{
         width:100%;
+        height:0;
+        padding-top:101%;
+        position: relative;
+    }
+
+    .post-content .fb-video{
+        position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
     }
 
     .post-content iframe{
         width:100%;
-        height:260px;
+        height:258px;
     }
 
     .season-bar ul, .resource-bar ul{

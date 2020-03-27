@@ -5,11 +5,14 @@
 layout: default
 title: "Home"
 ---
+  
 <h1><span class="pink">Common</span><span class="blue">Vibes</span></h1>
 
 {% include logline.html %}
 
 <h3>Newsfeed</h3>
+
+
 
 <ul>
 {% for post in site.announcements %}

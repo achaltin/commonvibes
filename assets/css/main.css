@@ -40,6 +40,10 @@
     background-color: #5581FF;
 }
 
+.lb-blue{
+    border-left: 2px solid #5581FF;
+}
+
 .bg-lightblue{
     background-color:#D5F9FF;
 }
@@ -64,6 +68,10 @@
     border:2px solid #ff4545;
 }
 
+.lb-red{
+    border-left: 2px solid #ff4545;
+}
+
 .border-blue{
     border: 2px solid #5581FF;
 }
@@ -72,12 +80,20 @@
     border: 2px solid #D5F9FF;
 }
 
+.lb-lightblue{
+    border-left: 2px solid #D5F9FF;
+}
+
 .border-yellow{
     border: 2px solid #FFFB86;
 }
 
 .border-pink{
     border:2px solid #FF529F;
+}
+
+.lb-pink{
+    border-left:2px solid #FF529F;
 }
 
 .border-purple{
@@ -192,6 +208,20 @@ nav a{
     font-weight: bold;
     font-size: 16px;
     padding-top:0;
+}
+
+.fb-video{
+    width:476px;
+    height:476px;
+}
+
+.episode-list .fb-video{
+    width:350px;
+    height:350px;
+}
+
+.post-description{
+    width:320px;
 }
 
 .flexbox{
@@ -381,6 +411,11 @@ h4.episode-title{
 .partial-border-lightblue{
     border-top:2px solid #D5F9FF;
     border-bottom:2px solid #D5F9FF;
+}
+
+.partial-border-blue{
+    border-top:2px solid #5581FF;
+    border-bottom:2px solid #5581FF;
 }
 
 p.credit{
