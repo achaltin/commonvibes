@@ -4,6 +4,7 @@
 
 layout: default
 title: "Home"
+description: "Common Vibes is a Series written and produced in Chicago. What happens when four very different women room together? Sex. Not with each other (you wish), but they’re certainly open to exploring their own sexual antics."
 ---
   
 <h1><span class="pink">Common</span><span class="blue">Vibes</span></h1>

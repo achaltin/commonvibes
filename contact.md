@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Contact"
+description: "Contact information for Common Vibes Series. Ask questions about the series, or submit your own story to share with others (anonymously if you want)."
 ---
 <h1>Contact Us!</h1>
 <form action="https://getform.io/f/c18f32d9-b402-4136-8e73-eb1c0d70f79b" method="POST" id="contact-form" class="bg-yellow border-pink">

@@ -2,6 +2,7 @@
 layout: default
 title: Resources
 permalink: /resources/
+description: "The Common Vibes Series talks a lot about sex, consent, and relationships. Find more info with these provided resources."
 ---
 
 <h1>Resources</h1>

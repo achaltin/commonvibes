@@ -18,6 +18,8 @@ github_username:  achaltin
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-include-cache
+  - jekyll-seo-tag
   #
 collections:
   cast:

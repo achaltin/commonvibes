@@ -2,6 +2,7 @@
 layout: default
 title: Episodes
 permalink: /episodes/
+descriptions: "Common Vibes Episodes: Watch the released promos and episodes of the series."
 ---
 
 <h1><span class="pink">Common</span><span class="blue">Vibes</span> Episodes</h1>

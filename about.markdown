@@ -2,6 +2,7 @@
 layout: default
 title: About
 permalink: /about/
+description: "Common Vibes is a series created with the intent of empowering women and freely expressing female sexuality."
 ---
 <h1>About <span class="pink">Common</span><span class="blue">Vibes</span></h1>
 {% include logline.html %}

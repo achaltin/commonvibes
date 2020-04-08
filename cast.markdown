@@ -3,6 +3,7 @@ layout: default
 title: Cast
 permalink: /cast/
 page-width: "extra-wide"
+description: "The cast and crew of Common Vibes Series. Produced in Chicago, IL."
 ---
 
 <h1><span class="pink">Common</span><span class="blue">Vibes</span> Cast and Crew</h1>
