@@ -30,7 +30,7 @@
      {% include footer.html %}
   </body>
 
-  <script type="text/javascript">
+  <script async defer type="text/javascript">
   function toggleMenu(){
     var menuList = document.getElementById('menuList');
 
@@ -50,7 +50,7 @@ window.onload = init;
 
   {% if page.title == "Episodes" or page.title == "Cast" %}
   
-<script type="text/javascript">
+<script async defer type="text/javascript">
   function switchTab(selection,tab){
   // change menu bar selection
   var curSelection = document.getElementsByClassName("active-selection");

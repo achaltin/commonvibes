@@ -124,17 +124,20 @@ body{
 
 .adriator{
     font-family: 'Adriator','Bungee Shade', sans-serif;
+    font-display: swap;
 }
 
 h1,h2,h3,h4,h5,h6{
-    font-family: "Bungee";
+    font-family: "Bungee",sans-serif;
+    font-display: swap;
     color: black;
     padding:15px 10px 10px 10px;
 }
 
 h1{
     font-size: 50px;
-    font-family: "Flames";
+    font-family: "Flames","Bungee",sans-serif;
+    font-display: swap;
     text-align: center;
     letter-spacing: 1px;
     color:#5581FF;
@@ -152,7 +155,8 @@ p{
 }
 
 a,p,li,ul,input,label,textarea,button{
-    font-family: 'Yanone Kaffeesatz', sans-serif;color:black;
+    font-family: 'Yanone Kaffeesatz', sans-serif;    font-display: swap;
+    color:black;
     font-size: 20px;
 }
 
@@ -170,7 +174,8 @@ a,p,li,ul,input,label,textarea,button{
 }
 
 .log-line .bold{
-    font-family:'Flames';
+    font-family:'Flames','Bungee',sans-serif;
+    font-display: swap;
     font-size: 45px;
     letter-spacing: 1px;
     margin:5px;
