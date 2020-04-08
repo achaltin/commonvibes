@@ -8,7 +8,7 @@
         display:block !important;
     }
 
-    .lb-lightblue, .lb-red, .lb-pink, .lb-blue{
+    .lb-lightblue, .lb-red, .lb-pink, .lb-blue, .lb-yellow{
         border-left:0;
     }
 
@@ -28,6 +28,10 @@
         border-top: 2px solid #5581FF;
     }
 
+    .lb-yellow{
+        border-top: 2px solid #FFFB86;
+    }
+
     .post-description{
         width:95%;
     }
@@ -43,6 +47,7 @@
 
     .page-container{
         padding: 50px 20px 20px 20px;
+        background-color: #F5BFFF;
     }
 
     nav{

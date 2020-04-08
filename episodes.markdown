@@ -135,7 +135,7 @@ permalink: /episodes/
             </p>
         </div>
     </div>
-</div>
+
 
 <div class="episode border-red bg-lightblue">
         <h5 class="episode-number bg-red lightblue">Promo #3: (The Concept of) Virginity</h5>
@@ -152,5 +152,21 @@ permalink: /episodes/
         </div>
     </div>
 
+<div class="episode border-yellow bg-pink">
+        <h5 class="episode-number bg-yellow pink">Promo #4: Title</h5>
+        <div class="episode-video">
+            <iframe src="" data-src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FCommonVibesSeries%2Fvideos%2F237320487660994%2F&show_text=0&width=350" width="350" height="250" style="overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true" class="partial-border-yellow"></iframe>
+        </div>
+        <div class="episode-description">
+            <p class="yellow">
+            Meet Harper as she downplays the outdated idea of virginity!</p>
 
-</div>
+<p class="yellow credit">
+            Musiredc: bensound.com; Sunday Cruise - Sad Boi
+            </p>
+        </div>
+    </div><!-- end of episode -->
+
+
+</div> <!-- end of episode list -->
+</div> <!-- end of season? -->
