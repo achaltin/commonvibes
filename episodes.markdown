@@ -154,16 +154,17 @@ descriptions: "Common Vibes Episodes: Watch the released promos and episodes of 
     </div>
 
 <div class="episode border-yellow bg-pink">
-        <h5 class="episode-number bg-yellow pink">Promo #4: Title</h5>
+        <h5 class="episode-number bg-yellow pink">Promo #4: TOUCH YASELF!</h5>
+        <p class="episode-number bg-yellow pa-0 "><br/></p>
         <div class="episode-video">
-            <iframe src="" data-src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FCommonVibesSeries%2Fvideos%2F237320487660994%2F&show_text=0&width=350" width="350" height="250" style="overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true" class="partial-border-yellow"></iframe>
+            <iframe src="" data-src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FCommonVibesSeries%2Fvideos%2F210812473702287%2F&show_text=0&width=350" width="350" height="250" style="overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true" class="partial-border-yellow"></iframe>
         </div>
         <div class="episode-description">
             <p class="yellow">
-            Meet Harper as she downplays the outdated idea of virginity!</p>
+            Meet Marley as she banishes shame from the act most people take part in but don't talk about...</p>
 
 <p class="yellow credit">
-            Musiredc: bensound.com; Sunday Cruise - Sad Boi
+            Musiredc: bensound.com; Sunday Drive - That One Song
             </p>
         </div>
     </div><!-- end of episode -->
