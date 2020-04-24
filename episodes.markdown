@@ -170,16 +170,16 @@ descriptions: "Common Vibes Episodes: Watch the released promos and episodes of 
     </div><!-- end of episode -->
 
 <div class="episode border-lightblue bg-blue">
-        <h5 class="episode-number bg-lightblue blue">Promo #5: Meet the Boys!</h5>
+        <h5 class="episode-number bg-lightblue blue">Promo #5: The Guys! (& Tips for tha Ladies)</h5>
         <div class="episode-video">
-            <iframe src="" data-src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FCommonVibesSeries%2Fvideos%2F210812473702287%2F&show_text=0&width=350" width="350" height="250" style="overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true" class="partial-border-lightblue"></iframe>
+            <iframe src="" data-src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FCommonVibesSeries%2Fvideos%2F272457780436536%2F&show_text=0&width=350" width="350" height="250" style="overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true" class="partial-border-lightblue"></iframe>
         </div>
         <div class="episode-description">
             <p class="lightblue">
-            Meet Marley as she banishes shame from the act most people take part in but don't talk about...</p>
+            The guys from Common Vibes have some advice for you ladies- find out what they're all about!</p>
 
 <p class="lightblue credit">
-            Musiredc: bensound.com; Sunday Drive - That One Song
+            Musiredc: bensound.com; Sunday Cruise - Philophobia
             </p>
         </div>
     </div><!-- end of episode -->
