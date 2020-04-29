@@ -9,7 +9,7 @@ descriptions: "Common Vibes Episodes: Watch the released promos and episodes of 
 
 <div class="season-bar">
     <ul>
-        <li class="nav-btn inactive-selection" id="s1" onclick="switchTab('s1','t1')">
+        <li class="nav-btn active-selection" id="s1" onclick="switchTab('s1','t1')">
             Season 1
         </li>
         <li class="nav-btn inactive-selection" id="s2" onclick="switchTab('s2','t2')">
@@ -21,30 +21,99 @@ descriptions: "Common Vibes Episodes: Watch the released promos and episodes of 
         <li class="nav-btn inactive-selection" id="s4" onclick="switchTab('s4','t4')">
             Season 4
         </li>
-        <li class="nav-btn active-selection" id="s5" onclick="switchTab('s5','t5')">
+        <li class="nav-btn inactive-selection" id="s5" onclick="switchTab('s5','t5')">
             Extras
         </li>
     </ul>
 </div>
 
 
-<div class="season inactive-tab" id="t1">
+<div class="season active-tab" id="t1">
     <h2>Season 1</h2>
-    <!-- <ul>
-    {% for episode in site.episodes %}
-        {% if episode.season == 1 %}
-            <li>
-                <h3>{{ episode.season }}.{{ episode.episode }} : {{ episode.episode-title }}</h3>
-                <iframe width="560" height="315" src="{{ episode.video-link }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-                </iframe>
-                <p>{{ episode.description }}</p>
-            </li>
-        {% endif %}
-    {% endfor %}
-    </ul> -->
-    <div class="comingsoon border-pink bg-yellow">
-        <h1 class="pink">Cumming April 2020</h1>
-    </div>
+ <div class="episode-player">
+    <div class="episode border-yellow bg-blue">
+        <h5 class="episode-number bg-yellow blue">Episode 1</h5>
+        <p class="episode-number bg-yellow pa-0 "><br/></p>
+        <div class="episode-video">
+            <iframe src="" data-src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FCommonVibesSeries%2Fvideos%2F210812473702287%2F&show_text=0&width=350" width="100%" height="400px" style="overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true" class="partial-border-yellow"></iframe>
+        </div>
+        <div class="episode-description">
+            <p class="yellow">
+            Meet Marley as she banishes shame from the act most people take part in but don't talk about...</p>
+
+<p class="yellow credit">
+            Music: bensound.com; Sunday Drive - That One Song
+            </p>
+        </div>
+    </div><!-- end of current episode -->
+
+ <div class="episode-bar">
+    <ul>
+        <li class="nav-btn active-selection" id="s1e1" onclick="">
+            Episode 1
+        </li>
+        <li class="nav-btn inactive-selection" id="s1e2" onclick="">
+            Episode 2
+        </li>
+        <li class="nav-btn inactive-selection" id="s1e3" onclick="">
+            Episode 3
+        </li>
+        <li class="nav-btn inactive-selection" id="s1e4" onclick="">
+            Episode 4
+        </li>
+    </ul>
+</div>
+
+ </div><!-- end of episode player -->
+ <h3>All Season 1 Episodes</h3>
+<div class="episode-list">
+    <div class="promo border-yellow bg-blue">
+        <h5 class="episode-number bg-yellow blue">1.1</h5>
+        <div class="episode-video">
+            <iframe src="" data-src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FCommonVibesSeries%2Fvideos%2F210812473702287%2F&show_text=0&width=350" width="350" height="250" style="overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true" class="partial-border-yellow"></iframe>
+        </div>
+        <div class="episode-description">
+            <p class="yellow">
+            Meet Marley as she banishes shame from the act most people take part in but don't talk about...</p>
+
+<p class="yellow credit">
+            Music: bensound.com; Sunday Drive - That One Song
+            </p>
+        </div>
+    </div><!-- end of episode -->
+
+ <div class="promo border-purple bg-lightblue">
+        <h5 class="episode-number bg-purple lightblue">1.2</h5>
+        <div class="episode-video">
+           <h1 class="purple">Cumming Soon</h1>
+        </div>
+        <div class="episode-description ">
+            <p class="purple">This episode will be available in May 2020</p>
+        </div>
+    </div><!-- end of episode -->
+
+<div class="promo border-lightblue bg-red">
+        <h5 class="episode-number bg-lightblue red">1.3</h5>
+        <div class="episode-video">
+           <h1 class="lightblue">Cumming Soon</h1>
+        </div>
+        <div class="episode-description">
+            <p class="lightblue">This episode will be available in May 2020</p>
+        </div>
+    </div><!-- end of episode -->
+
+<div class="promo border-pink bg-yellow">
+        <h5 class="episode-number bg-pink yellow">1.4</h5>
+        <div class="episode-video">
+           <h1 class="pink">Cumming Soon</h1>
+        </div>
+        <div class="episode-description">
+            <p class="pink">This episode will be available in May 2020</p>
+        </div>
+    </div><!-- end of episode -->
+
+</div><!-- end of episode list -->
+
 </div>
 <p class="pa-0"></p>
 
@@ -104,10 +173,10 @@ descriptions: "Common Vibes Episodes: Watch the released promos and episodes of 
     </div>
 </div>
 
-<div class="season active-tab" id="t5">
+<div class="season inactive-tab" id="t5">
     <h2>Extras</h2>
     <div class="episode-list">
-        <div class="episode border-blue pink bg-yellow">
+        <div class="promo border-blue pink bg-yellow">
         <h5 class="episode-number bg-blue yellow">Promo #1: How to Use a Condom!</h5>
         <div class="episode-video">
             <iframe src="" data-src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FCommonVibesSeries%2Fvideos%2F139522734042085%2F&show_text=0&width=350" width="350" height="250" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true" class="partial-border-blue"></iframe>
@@ -122,7 +191,7 @@ descriptions: "Common Vibes Episodes: Watch the released promos and episodes of 
         </div>
     </div>
 
-<div class="episode border-lightblue bg-purple">
+<div class="promo border-lightblue bg-purple">
         <h5 class="episode-number bg-lightblue purple">Promo #2: Tight or Loose?</h5>
         <div class="episode-video">
             <iframe src="" data-src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FCommonVibesSeries%2Fvideos%2F553634041932436%2F&show_text=0&width=350" width="350" height="250" style="overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true" class="partial-border-lightblue"></iframe>
@@ -138,7 +207,7 @@ descriptions: "Common Vibes Episodes: Watch the released promos and episodes of 
     </div>
 
 
-<div class="episode border-red bg-lightblue">
+<div class="promo border-red bg-lightblue">
         <h5 class="episode-number bg-red lightblue">Promo #3: (The Concept of) Virginity</h5>
         <div class="episode-video">
             <iframe src="" data-src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FCommonVibesSeries%2Fvideos%2F237320487660994%2F&show_text=0&width=350" width="350" height="250" style="overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true" class="partial-border-red"></iframe>
@@ -148,12 +217,12 @@ descriptions: "Common Vibes Episodes: Watch the released promos and episodes of 
             Meet Harper as she downplays the outdated idea of virginity!</p>
 
 <p class="red credit">
-            Musiredc: bensound.com; Sunday Cruise - Sad Boi
+            Music: bensound.com; Sunday Cruise - Sad Boi
             </p>
         </div>
     </div>
 
-<div class="episode border-yellow bg-pink">
+<div class="promo border-yellow bg-pink">
         <h5 class="episode-number bg-yellow pink">Promo #4: TOUCH YASELF!</h5>
         <p class="episode-number bg-yellow pa-0 "><br/></p>
         <div class="episode-video">
@@ -164,12 +233,12 @@ descriptions: "Common Vibes Episodes: Watch the released promos and episodes of 
             Meet Marley as she banishes shame from the act most people take part in but don't talk about...</p>
 
 <p class="yellow credit">
-            Musiredc: bensound.com; Sunday Drive - That One Song
+            Music: bensound.com; Sunday Drive - That One Song
             </p>
         </div>
     </div><!-- end of episode -->
 
-<div class="episode border-lightblue bg-blue">
+<div class="promo border-lightblue bg-blue">
         <h5 class="episode-number bg-lightblue blue">Promo #5: The Guys! (& Tips for tha Ladies)</h5>
         <div class="episode-video">
             <iframe src="" data-src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FCommonVibesSeries%2Fvideos%2F272457780436536%2F&show_text=0&width=350" width="350" height="250" style="overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true" class="partial-border-lightblue"></iframe>
@@ -179,7 +248,7 @@ descriptions: "Common Vibes Episodes: Watch the released promos and episodes of 
             The guys from Common Vibes have some advice for you ladies- find out what they're all about!</p>
 
 <p class="lightblue credit">
-            Musiredc: bensound.com; Sunday Cruise - Philophobia
+            Music: bensound.com; Sunday Cruise - Philophobia
             </p>
         </div>
     </div><!-- end of episode -->

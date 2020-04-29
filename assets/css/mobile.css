@@ -142,12 +142,12 @@
         margin-bottom: 100px;
     }
     
-    .episode{
+    .episode, .promo{
         width:97%;
         margin: 5px 0;
     }
 
-    .episode iframe{
+    .episode iframe, .promo iframe{
         width:100%;
     }
 
