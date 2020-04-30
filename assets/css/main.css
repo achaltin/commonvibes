@@ -222,6 +222,14 @@ nav a{
     flex:1;
 }
 
+.post-content img{
+    width:476px;
+}
+
+.post-content a:hover img{
+    filter: opacity(.8);
+}
+
 .post-date{
     font-weight: bold;
     font-size: 16px;

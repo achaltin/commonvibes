@@ -24,7 +24,7 @@ description: "Common Vibes is a Series written and produced in Chicago. What hap
             <p class="post-date {{ post.color }}">{{ post.datestamp }}</p>
             <p class="{{ post.color }}">{{ post.description }} </p>
         </div>
-        <div class="post-content">
+        <div class="post-content {{ post.type }}">
             {{ post.media }}
         </div>
     </div>

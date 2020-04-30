@@ -97,6 +97,17 @@
         position: relative;
     }
 
+    .post-content.img{
+        padding-top: 0;
+        display: block;
+        padding-bottom: 101%;
+    }
+
+
+.post-content img{
+    width:100%;
+}
+
     .post-content .fb-video{
         position: absolute;
   top: 0;
@@ -110,7 +121,7 @@
         height:258px;
     }
 
-    .season-bar ul, .resource-bar ul{
+    .season-bar ul, .resource-bar ul, .episode-bar ul{
         display:inline-flex;
         flex-wrap: wrap;
     }

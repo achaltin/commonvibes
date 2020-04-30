@@ -32,18 +32,15 @@ descriptions: "Common Vibes Episodes: Watch the released promos and episodes of 
     <h2>Season 1</h2>
  <div class="episode-player">
     <div class="episode border-yellow bg-blue">
-        <h5 class="episode-number bg-yellow blue">Episode 1</h5>
+        <h5 class="episode-number bg-yellow blue">Episode 1: QUINN</h5>
         <p class="episode-number bg-yellow pa-0 "><br/></p>
         <div class="episode-video">
-            <iframe src="" data-src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FCommonVibesSeries%2Fvideos%2F210812473702287%2F&show_text=0&width=350" width="100%" height="400px" style="overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true" class="partial-border-yellow"></iframe>
+            <iframe src="" data-src="https://www.youtube.com/embed/HEs_4VIBeAs" width="100%" height="400px" style="overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true" class="partial-border-yellow"></iframe>
         </div>
         <div class="episode-description">
             <p class="yellow">
-            Meet Marley as she banishes shame from the act most people take part in but don't talk about...</p>
-
-<p class="yellow credit">
-            Music: bensound.com; Sunday Drive - That One Song
-            </p>
+            Meet Quinn, the first of our four roommates! 
+Boisterous, unabashed, and up for anything, watch Quinn wade her way through modern hookup culture.</p>
         </div>
     </div><!-- end of current episode -->
 
@@ -70,15 +67,12 @@ descriptions: "Common Vibes Episodes: Watch the released promos and episodes of 
     <div class="promo border-yellow bg-blue">
         <h5 class="episode-number bg-yellow blue">1.1</h5>
         <div class="episode-video">
-            <iframe src="" data-src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FCommonVibesSeries%2Fvideos%2F210812473702287%2F&show_text=0&width=350" width="350" height="250" style="overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true" class="partial-border-yellow"></iframe>
+            <iframe src="" data-src="https://www.youtube.com/embed/HEs_4VIBeAs" width="350" height="250" style="overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true" class="partial-border-yellow"></iframe>
         </div>
         <div class="episode-description">
             <p class="yellow">
-            Meet Marley as she banishes shame from the act most people take part in but don't talk about...</p>
-
-<p class="yellow credit">
-            Music: bensound.com; Sunday Drive - That One Song
-            </p>
+            Meet Quinn, the first of our four roommates! 
+Boisterous, unabashed, and up for anything, watch Quinn wade her way through modern hookup culture.</p>
         </div>
     </div><!-- end of episode -->
 
