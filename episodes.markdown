@@ -65,7 +65,7 @@ Boisterous, unabashed, and up for anything, watch Quinn wade her way through mod
  <h3>All Season 1 Episodes</h3>
 <div class="episode-list">
     <div class="promo border-yellow bg-blue">
-        <h5 class="episode-number bg-yellow blue">1.1</h5>
+        <h5 class="episode-number bg-yellow blue">1.1: Quinn</h5>
         <div class="episode-video">
             <iframe src="" data-src="https://www.youtube.com/embed/HEs_4VIBeAs" width="350" height="250" style="overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true" class="partial-border-yellow"></iframe>
         </div>
@@ -77,32 +77,32 @@ Boisterous, unabashed, and up for anything, watch Quinn wade her way through mod
     </div><!-- end of episode -->
 
  <div class="promo border-purple bg-lightblue">
-        <h5 class="episode-number bg-purple lightblue">1.2</h5>
+        <h5 class="episode-number bg-purple lightblue">1.2: Robyn</h5>
         <div class="episode-video">
-           <h1 class="purple">Cumming Soon</h1>
+           <img src="../assets/images/comingsooncovers/s1e2.png" class="partial-border-purple" style="width:100%;"/>
         </div>
         <div class="episode-description ">
-            <p class="purple">This episode will be available in May 2020</p>
+            <p class="purple">Episode coming soon!</p>
         </div>
     </div><!-- end of episode -->
 
 <div class="promo border-lightblue bg-red">
-        <h5 class="episode-number bg-lightblue red">1.3</h5>
+        <h5 class="episode-number bg-lightblue red">1.3: Harper</h5>
         <div class="episode-video">
-           <h1 class="lightblue">Cumming Soon</h1>
+           <img src="../assets/images/comingsooncovers/s1e3.png" class="partial-border-lightblue" style="width:100%;"/>
         </div>
         <div class="episode-description">
-            <p class="lightblue">This episode will be available in May 2020</p>
+            <p class="lightblue">Episode coming soon!</p>
         </div>
     </div><!-- end of episode -->
 
 <div class="promo border-pink bg-yellow">
-        <h5 class="episode-number bg-pink yellow">1.4</h5>
+        <h5 class="episode-number bg-pink yellow">1.4: Marley</h5>
         <div class="episode-video">
-           <h1 class="pink">Cumming Soon</h1>
+           <img src="../assets/images/comingsooncovers/s1e4.png" class="partial-border-pink" style="width:100%;"/>
         </div>
         <div class="episode-description">
-            <p class="pink">This episode will be available in May 2020</p>
+            <p class="pink">Episode coming soon!</p>
         </div>
     </div><!-- end of episode -->
 
