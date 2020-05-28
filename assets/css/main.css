@@ -390,17 +390,24 @@ p.answer{
     margin-bottom:50px;
 }
 
+.inactive-player{
+    display:none !important;
+}
+.active-player{
+    display:block;
+}
+
 .episode-list, .promo-list, .episode-player{
     display: inline-flex;
     margin-bottom: 30px;
     flex-wrap: wrap;
 }
 
-.active-selection{
+.active-selection, .active-episode{
     background-color:#FFFB86;
 }
 
-.inactive-selection{
+.inactive-selection, .inactive-episode{
     background-color: #D5F9FF;
 }
 

@@ -31,7 +31,7 @@ descriptions: "Common Vibes Episodes: Watch the released promos and episodes of 
 <div class="season active-tab" id="t1">
     <h2>Season 1</h2>
  <div class="episode-player">
-    <div class="episode border-yellow bg-blue">
+    <div class="episode border-yellow bg-blue active-player" id="s1e1-player">
         <h5 class="episode-number bg-yellow blue">Episode 1: QUINN</h5>
         <p class="episode-number bg-yellow pa-0 "><br/></p>
         <div class="episode-video">
@@ -42,20 +42,31 @@ descriptions: "Common Vibes Episodes: Watch the released promos and episodes of 
             Meet Quinn, the first of our four roommates! 
 Boisterous, unabashed, and up for anything, watch Quinn wade her way through modern hookup culture.</p>
         </div>
-    </div><!-- end of current episode -->
+    </div><!-- end of current episode player1.1-->
+<div class="episode border-purple bg-lightblue inactive-player" id="s1e2-player">
+        <h5 class="episode-number bg-purple lightblue">Episode 2: ROBYN</h5>
+        <p class="episode-number bg-purple pa-0 "><br/></p>
+        <div class="episode-video">
+            <iframe src="" data-src="https://www.youtube.com/embed/1gReWj722O8" width="100%" height="400px" style="overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true" class="partial-border-purple"></iframe>
+        </div>
+        <div class="episode-description">
+            <p class="purple">
+            Meet Robyn, the second of our four roommates! Goofy, loud, and ambitious, watch Robyn meet the struggles of a clashing relationship.</p>
+        </div>
+    </div><!-- end of current episode player 1.2-->
 
  <div class="episode-bar">
     <ul>
-        <li class="nav-btn active-selection" id="s1e1" onclick="">
+        <li class="nav-btn active-episode" id="s1e1" onclick="switchPlayer('s1e1','s1e1-player',0)">
             Episode 1
         </li>
-        <li class="nav-btn inactive-selection" id="s1e2" onclick="">
+        <li class="nav-btn inactive-episode" id="s1e2" onclick="switchPlayer('s1e2','s1e2-player',1)">
             Episode 2
         </li>
-        <li class="nav-btn inactive-selection" id="s1e3" onclick="">
+        <li class="nav-btn inactive-episode" id="s1e3" onclick="">
             Episode 3
         </li>
-        <li class="nav-btn inactive-selection" id="s1e4" onclick="">
+        <li class="nav-btn inactive-episode" id="s1e4" onclick="">
             Episode 4
         </li>
     </ul>
@@ -79,10 +90,10 @@ Boisterous, unabashed, and up for anything, watch Quinn wade her way through mod
  <div class="promo border-purple bg-lightblue">
         <h5 class="episode-number bg-purple lightblue">1.2: Robyn</h5>
         <div class="episode-video">
-           <img src="../assets/images/comingsooncovers/s1e2.png" class="partial-border-purple" style="width:100%;"/>
+            <iframe src="" data-src="https://www.youtube.com/embed/1gReWj722O8" width="350" height="250" style="overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true" class="partial-border-purple"></iframe>
         </div>
         <div class="episode-description ">
-            <p class="purple">Episode coming soon!</p>
+            <p class="purple">Meet Robyn, the second of our four roommates! Goofy, loud, and ambitious, watch Robyn meet the struggles of a clashing relationship.</p>
         </div>
     </div><!-- end of episode -->
 

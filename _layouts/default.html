@@ -74,6 +74,30 @@ window.onload = init;
 
   document.getElementById(tab).className = "season active-tab";
 }
+
+function switchPlayer(button,episode,idx){
+  // change menu bar selection
+  var curSelection = document.getElementsByClassName("active-episode");
+
+  for(var i = 0; i< curSelection.length; i++){
+      curSelection[i].classList.add("inactive-episode");
+      curSelection[i].classList.remove("active-episode");
+  }
+
+  var newSelection = document.getElementById(button);
+  newSelection.classList.add("active-episode");
+  newSelection.classList.remove("inactive-episode");
+  
+  var aClasses = ["active-player episode border-yellow bg-blue","active-player episode border-purple bg-lightblue"]
+  // change displayed section
+  var curTab = document.getElementsByClassName("active-player");
+
+  for(var i = 0; i< curTab.length; i++){
+      curTab[i].className = "inactive-player";
+  }
+
+  document.getElementById(episode).className = aClasses[idx];
+}
 </script>
 {% endif %}
 
