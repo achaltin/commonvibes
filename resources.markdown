@@ -92,6 +92,9 @@ description: "The Common Vibes Series talks a lot about sex, consent, and relati
         <li>
             <a href="http://www.thetrevorproject.org/" target="_blank">The Trevor Project</a> provides crisis intervention and suicide prevention for LGBTQ youth with its hotline (<a href="tel:18664887386">1-866-488-7386</a>), text line (Text “Trevor” to <a href="tel:12023041200">1-202-304-1200</a>), and its social network <a href="https://www.trevorspace.org/" target="_blank">TrevorSpace</a>.
         </li>
+        <li>
+            <a href=" https://www.sunshinebehavioralhealth.com/resources/transgender-community/">Sunshine Behavioral Health</a> provides a guide for transgender people who struggle with mental health and substance abuse.
+        </li>
     </ul>
 </p>
 
