@@ -54,6 +54,17 @@ Boisterous, unabashed, and up for anything, watch Quinn wade her way through mod
             Meet Robyn, the second of our four roommates! Goofy, loud, and ambitious, watch Robyn meet the struggles of a clashing relationship.</p>
         </div>
     </div><!-- end of current episode player 1.2-->
+    <div class="episode border-lightblue bg-red inactive-player" id="s1e3-player">
+        <h5 class="episode-number bg-lightblue red">Episode 3: HARPER</h5>
+        <p class="episode-number bg-lightblue pa-0 "><br/></p>
+        <div class="episode-video">
+            <iframe src="" data-src="https://www.youtube.com/embed/UXCiJks7F-w" width="100%" height="400px" style="overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true" class="partial-border-lightblue"></iframe>
+        </div>
+        <div class="episode-description">
+            <p class="lightblue">
+            Meet Harper, the third of our four roommates! Driven, clever, and seductive, watch Harper choose what some would call unorthodox paths to enjoy the finer things in life.</p>
+        </div>
+    </div><!-- end of current episode player 1.3-->
 
  <div class="episode-bar">
     <ul>
@@ -63,7 +74,7 @@ Boisterous, unabashed, and up for anything, watch Quinn wade her way through mod
         <li class="nav-btn inactive-episode" id="s1e2" onclick="switchPlayer('s1e2','s1e2-player',1)">
             Episode 2
         </li>
-        <li class="nav-btn inactive-episode" id="s1e3" onclick="">
+        <li class="nav-btn inactive-episode" id="s1e3" onclick="switchPlayer('s1e3','s1e3-player',2)">
             Episode 3
         </li>
         <li class="nav-btn inactive-episode" id="s1e4" onclick="">
@@ -100,10 +111,11 @@ Boisterous, unabashed, and up for anything, watch Quinn wade her way through mod
 <div class="promo border-lightblue bg-red">
         <h5 class="episode-number bg-lightblue red">1.3: Harper</h5>
         <div class="episode-video">
-           <img src="../assets/images/comingsooncovers/s1e3.png" class="partial-border-lightblue" style="width:100%;"/>
+           <iframe src="" data-src="https://www.youtube.com/embed/UXCiJks7F-w" width="350" height="250" style="overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true" class="partial-border-lightblue"></iframe>
+
         </div>
         <div class="episode-description">
-            <p class="lightblue">Episode coming soon!</p>
+            <p class="lightblue">Meet Harper, the third of our four roommates! Driven, clever, and seductive, watch Harper choose what some would call unorthodox paths to enjoy the finer things in life.</p>
         </div>
     </div><!-- end of episode -->
 
@@ -184,7 +196,7 @@ Boisterous, unabashed, and up for anything, watch Quinn wade her way through mod
         <div class="promo border-blue pink bg-yellow">
         <h5 class="episode-number bg-blue yellow">Promo #1: How to Use a Condom!</h5>
         <div class="episode-video">
-            <iframe src="" data-src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FCommonVibesSeries%2Fvideos%2F139522734042085%2F&show_text=0&width=350" width="350" height="250" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true" class="partial-border-blue"></iframe>
+            <iframe src="" data-src="https://www.youtube.com/embed/X65k5bKwVEU" width="350" height="250" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true" class="partial-border-blue"></iframe>
         </div>
         <div class="episode-description">
             <p class="blue">
