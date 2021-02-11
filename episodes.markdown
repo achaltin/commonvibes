@@ -65,6 +65,17 @@ Boisterous, unabashed, and up for anything, watch Quinn wade her way through mod
             Meet Harper, the third of our four roommates! Driven, clever, and seductive, watch Harper choose what some would call unorthodox paths to enjoy the finer things in life.</p>
         </div>
     </div><!-- end of current episode player 1.3-->
+<div class="episode border-yellow bg-pink inactive-player" id="s1e4-player">
+        <h5 class="episode-number bg-pink yellow">Episode 4: MARLEY</h5>
+        <p class="episode-number bg-pink pa-0 "><br/></p>
+        <div class="episode-video">
+            <iframe src="" data-src="https://www.youtube.com/embed/1gReWj722O8" width="100%" height="400px" style="overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true" class="partial-border-yellow"></iframe>
+        </div>
+        <div class="episode-description">
+            <p class="yellow">
+            Meet Robyn, the second of our four roommates! Goofy, loud, and ambitious, watch Robyn meet the struggles of a clashing relationship.</p>
+        </div>
+    </div><!-- end of current episode player 1.4-->
 
  <div class="episode-bar">
     <ul>
@@ -77,7 +88,7 @@ Boisterous, unabashed, and up for anything, watch Quinn wade her way through mod
         <li class="nav-btn inactive-episode" id="s1e3" onclick="switchPlayer('s1e3','s1e3-player',2)">
             Episode 3
         </li>
-        <li class="nav-btn inactive-episode" id="s1e4" onclick="">
+        <li class="nav-btn inactive-episode" id="s1e4" onclick="switchPlayer('s1e4','s1e4-player',3)">
             Episode 4
         </li>
     </ul>
