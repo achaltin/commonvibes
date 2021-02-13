@@ -65,15 +65,15 @@ Boisterous, unabashed, and up for anything, watch Quinn wade her way through mod
             Meet Harper, the third of our four roommates! Driven, clever, and seductive, watch Harper choose what some would call unorthodox paths to enjoy the finer things in life.</p>
         </div>
     </div><!-- end of current episode player 1.3-->
-<div class="episode border-yellow bg-pink inactive-player" id="s1e4-player">
+<div class="episode border-pink bg-yellow inactive-player" id="s1e4-player">
         <h5 class="episode-number bg-pink yellow">Episode 4: MARLEY</h5>
         <p class="episode-number bg-pink pa-0 "><br/></p>
         <div class="episode-video">
-            <iframe src="" data-src="https://www.youtube.com/embed/1gReWj722O8" width="100%" height="400px" style="overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true" class="partial-border-yellow"></iframe>
+            <iframe src="" data-src="https://www.youtube.com/embed/TzfcpF61fQQ" width="100%" height="400px" style="overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true" class="partial-border-pink"></iframe>
         </div>
         <div class="episode-description">
-            <p class="yellow">
-            Meet Robyn, the second of our four roommates! Goofy, loud, and ambitious, watch Robyn meet the struggles of a clashing relationship.</p>
+            <p class="pink bg-yellow">
+            Meet Marley, the final of our four roommates! Shy, sweet, and uncertain, watch Marley tread the unknown path of self-assurance.</p>
         </div>
     </div><!-- end of current episode player 1.4-->
 
@@ -120,11 +120,10 @@ Boisterous, unabashed, and up for anything, watch Quinn wade her way through mod
     </div><!-- end of episode -->
 
 <div class="promo border-lightblue bg-red">
-        <h5 class="episode-number bg-lightblue red">1.3: Harper</h5>
+    <h5 class="episode-number bg-lightblue red">1.3: Harper</h5>
         <div class="episode-video">
            <iframe src="" data-src="https://www.youtube.com/embed/UXCiJks7F-w" width="350" height="250" style="overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true" class="partial-border-lightblue"></iframe>
-
-        </div>
+           </div>
         <div class="episode-description">
             <p class="lightblue">Meet Harper, the third of our four roommates! Driven, clever, and seductive, watch Harper choose what some would call unorthodox paths to enjoy the finer things in life.</p>
         </div>
@@ -133,10 +132,10 @@ Boisterous, unabashed, and up for anything, watch Quinn wade her way through mod
 <div class="promo border-pink bg-yellow">
         <h5 class="episode-number bg-pink yellow">1.4: Marley</h5>
         <div class="episode-video">
-           <img src="../assets/images/comingsooncovers/s1e4.png" class="partial-border-pink" style="width:100%;"/>
+           <iframe src="" data-src="https://www.youtube.com/embed/TzfcpF61fQQ" width="350" height="250" style="overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true" class="partial-border-yellow"></iframe>
         </div>
         <div class="episode-description">
-            <p class="pink">Episode coming soon!</p>
+            <p class="pink">Meet Marley, the final of our four roommates! Shy, sweet, and uncertain, watch Marley tread the unknown path of self-assurance.</p>
         </div>
     </div><!-- end of episode -->
 
